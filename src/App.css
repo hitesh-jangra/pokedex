@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+.c-r-g{
+  row-gap: 2rem;
+}
+.c-c-g{
+  column-gap: 2rem;
+}
+.c-t{
+  text-transform: capitalize;
+}
